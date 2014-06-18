@@ -1,0 +1,4 @@
+Cycle [numberOfWheels= 500.0 , weight= 600.0 ]
+Cycle [numberOfWheels= 60.0 , weight= 700.0 ]
+Cycle [numberOfWheels= 700.0 , weight= 90.0 ]
+Cycle [numberOfWheels= 100.0 , weight= 200.0 ]
